@@ -9,16 +9,16 @@ VueSchools - Vue.js 3 Fundamentals with the Composition API
 ## Methods
 
 - **v-model** = two way binding
- - ### modifiers
- - .lazy
- - .number
- - .trim
+  - ### modifiers
+  - .lazy
+  - .number
+  - .trim
 
 - **v-for** = loop over arrays, objects v-for="({id, label}, index) in items" :key="id"
 
 - **v-on || @** = action v-on:click="" 
- - :click
- - :keyup
-  - .enter
- - :submit
-  - .prevent
+  - :click
+  - :keyup
+    - .enter
+  - :submit
+    - .prevent
