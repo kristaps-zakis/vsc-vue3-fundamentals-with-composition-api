@@ -4,3 +4,7 @@ VueSchools - Vue.js 3 Fundamentals with the Composition API
 
 ## Links
 - [Vue.js Playground](https://sfc.vuejs.org/)
+
+## Methods
+
+- **v-model** = two way binding
